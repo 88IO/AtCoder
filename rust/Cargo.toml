@@ -1,0 +1,26 @@
+[package]
+name = "atcoder"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "abc262a"
+path = "src/abc262a.rs"
+
+[[bin]]
+name = "abc262b"
+path = "src/abc262b.rs"
+
+[[bin]]
+name = "abc262c"
+path = "src/abc262c.rs"
+
+[[bin]]
+name = "abc262d"
+path = "src/abc262d.rs"
+
+[dependencies]
+proconio = "*"
+itertools = "*"
