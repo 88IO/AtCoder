@@ -21,6 +21,22 @@ path = "src/abc262c.rs"
 name = "abc262d"
 path = "src/abc262d.rs"
 
+[[bin]]
+name = "abc263a"
+path = "src/abc263a.rs"
+
+[[bin]]
+name = "abc263b"
+path = "src/abc263b.rs"
+
+[[bin]]
+name = "abc263c"
+path = "src/abc263c.rs"
+
+[[bin]]
+name = "abc263d"
+path = "src/abc263d.rs"
+
 [dependencies]
 proconio = "*"
 itertools = "*"
