@@ -37,6 +37,22 @@ path = "src/abc263c.rs"
 name = "abc263d"
 path = "src/abc263d.rs"
 
+[[bin]]
+name = "abc264a"
+path = "src/abc264a.rs"
+
+[[bin]]
+name = "abc264b"
+path = "src/abc264b.rs"
+
+[[bin]]
+name = "abc264c"
+path = "src/abc264c.rs"
+
+[[bin]]
+name = "abc264d"
+path = "src/abc264d.rs"
+
 [dependencies]
 proconio = "*"
 itertools = "*"
