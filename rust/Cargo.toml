@@ -18,6 +18,22 @@ name = "abc250c"
 path = "src/abc250c.rs"
 
 [[bin]]
+name = "abc260a"
+path = "src/abc260a.rs"
+
+[[bin]]
+name = "abc260b"
+path = "src/abc260b.rs"
+
+[[bin]]
+name = "abc260c"
+path = "src/abc260c.rs"
+
+[[bin]]
+name = "abc260d"
+path = "src/abc260d.rs"
+
+[[bin]]
 name = "abc262a"
 path = "src/abc262a.rs"
 
