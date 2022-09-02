@@ -5,7 +5,7 @@ fn main() {
         n: isize
     };
 
-    let mut dp = [vec![0; 5], vec![0; 5]];
+    let mut dp = [[0; 5]; 2];
     let mut head: usize = 0;
     let mut t_prev = 0;
 
@@ -30,7 +30,6 @@ fn main() {
 
         t_prev = t;
         head = (head + 1) % 2;
-
     }
 
     println!("{}", dp[head].iter().max().unwrap());
