@@ -1,0 +1,13 @@
+[package]
+name = "abc275"
+version = "0.1.0"
+edition = "2021"
+#lto = true
+#panic = 'abort'
+
+# dependencies added to new project
+[dependencies]
+proconio = "*"
+itertools = "*"
+
+[profile.release]
